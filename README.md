@@ -1,5 +1,6 @@
 # API REST - Documentação
 É possível verificar as funções da aplicação no arquivo [DateController](src/main/java/com/ottimizza/REST/DateController.java)
+Ao subir a aplicação também se pode realizar as consultas no [Swagger](http://localhost:8080/swagger-ui.html)
 
 ## 1. Formatar Data
 
