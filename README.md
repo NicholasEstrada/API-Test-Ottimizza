@@ -1,5 +1,5 @@
 # API REST - Documentação
-É possível verificar as funçoes da aplicação no arquivo [DateController](src/main/java/com/ottimizza/REST/DateController.java)
+É possível verificar as funções da aplicação no arquivo [DateController](src/main/java/com/ottimizza/REST/DateController.java)
 
 ## 1. Formatar Data
 
